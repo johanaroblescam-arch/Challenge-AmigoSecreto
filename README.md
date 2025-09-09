@@ -48,6 +48,8 @@ JavaScript
 Licencia
 
 Este proyecto es de uso libre con fines educativos.
-📄 Licencia
 
-Este proyecto es de uso libre con fines educativos.
+
+
+
+
